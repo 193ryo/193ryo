@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
-          USERNAME: ${{ github.rainy6 }}
+          USERNAME: ${{ github.repository_owner }}

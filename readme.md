@@ -21,8 +21,6 @@
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" height="30" width="40" /><nobr/>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rainy6&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rainy6&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rainy6&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rainy6&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rainy6&theme=github&utcOffset=8)
+[![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

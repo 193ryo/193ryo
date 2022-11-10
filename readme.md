@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rainy6</h1>
+<h1 align="center">Hi 👋, I'm Ryosei</h1>
 <h3 align="center">Frontend and Backend developer from Japan</h3>
 
 # Work Experience　

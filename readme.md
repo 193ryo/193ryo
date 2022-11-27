@@ -19,7 +19,6 @@
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/aws.svg" alt="aws" height="30" width="40" /><nobr/>
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/vagrant.svg" alt="vagrant" height="30" width="40" /><nobr/>
 <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" height="30" width="40" /><nobr/>
-<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" height="30" width="40" /><nobr/>
 
 
 [![](https://raw.githubusercontent.com/rainy6/rainy6/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

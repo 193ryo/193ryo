@@ -1,5 +1,5 @@
 # Hi there👋
-##### FrontEnd and BackEnd Developer in Japan
+### FrontEnd and BackEnd Developer in Japan
 
 ## Work Experience
 

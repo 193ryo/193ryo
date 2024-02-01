@@ -3,7 +3,7 @@
 
 ## Work Experience
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,vue,nuxt,java,spring" /> <br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,vue,nuxt,java,spring,php" /> <br>
 
 <img src="https://skillicons.dev/icons?i=linux,nodejs,aws,github,mysql,eclipse,vscode,vim,figma,postman," /> <br>
 

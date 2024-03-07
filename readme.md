@@ -3,13 +3,13 @@
 
 ## Work Experience
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,vue,nuxt,java,spring,php" /> <br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,vue,nuxt,java,kotlin,spring" /> <br>
 
-<img src="https://skillicons.dev/icons?i=linux,nodejs,aws,github,mysql,eclipse,vscode,vim,figma,postman," /> <br>
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,nodejs,aws,linux,mysql,figma,vscode,github" /> <br>
 
 ## Favorite
 
-<img src="https://skillicons.dev/icons?i=typescript,react,next,python,django,docker" />
+<img src="https://skillicons.dev/icons?i=typescript,react,python,aws" />
 
 <br>
 

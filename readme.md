@@ -5,7 +5,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,vue,nuxt,java,kotlin,spring" /> <br>
 
-<img src="https://skillicons.dev/icons?i=php,python,fastapi,nodejs,aws,linux,mysql,figma,vscode,github" /> <br>
+<img src="https://skillicons.dev/icons?i=php,python,fastapi,nodejs,aws,docker,linux,mysql,figma,vscode,github" /> <br>
 
 ## Favorite
 

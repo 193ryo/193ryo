@@ -3,9 +3,9 @@
 
 ## Work Experience
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,next,vue,nuxt,dart,flutter" /> <br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react,next,vue,nuxt,dart,flutter,rust" /> <br>
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs,aws,docker,mysql,postgresql" /> <br>
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,python,fastapi,nodejs,aws,docker,linux,mysql,postgresql" /> <br>
 
 ## Favorite
 
